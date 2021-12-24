@@ -5,7 +5,7 @@ import static university.AcademDegree.MSc;
 import static university.AcademDegree.PhD;
 import static university.Stage.Bachelor;
 import static university.Stage.Master;
-
+//EfimovDA
 public class Main {
 
     public static void main(String[] args) {
